@@ -6,3 +6,6 @@
 - [1] 15 https://leetcode-cn.com/problems/3sum
 - [1] 283 https://leetcode-cn.com/problems/move-zeroes
 - [1] 11 https://leetcode-cn.com/problems/container-with-most-water/
+- [1] 24 https://leetcode-cn.com/problems/swap-nodes-in-pairs/ 
+- [1] 21 https://leetcode-cn.com/problems/merge-two-sorted-lists/
+- [1] 299 https://leetcode-cn.com/problems/bulls-and-cows/ 
