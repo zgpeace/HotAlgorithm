@@ -9,3 +9,4 @@
 - [1] 24 https://leetcode-cn.com/problems/swap-nodes-in-pairs/ 
 - [1] 21 https://leetcode-cn.com/problems/merge-two-sorted-lists/
 - [1] 299 https://leetcode-cn.com/problems/bulls-and-cows/ 
+- [1] 206 https://leetcode-cn.com/problems/reverse-linked-list/
