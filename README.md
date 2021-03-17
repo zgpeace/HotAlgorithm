@@ -12,4 +12,5 @@
 - [1] 206 https://leetcode-cn.com/problems/reverse-linked-list/
 - [1] 350 https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
 - [1] 59-I https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/
+- [1] 1021 https://leetcode-cn.com/problems/remove-outermost-parentheses/ 
 
