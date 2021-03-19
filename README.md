@@ -14,5 +14,7 @@
 - [2] 239 https://leetcode-cn.com/problems/sliding-window-maximum/ | 59-I https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/ 
 - [1] 1021 https://leetcode-cn.com/problems/remove-outermost-parentheses/ 
 - [1] 412 https://leetcode-cn.com/problems/fizz-buzz/ 
+- [1] 258 https://leetcode-cn.com/problems/add-digits/ 
+
 
 
