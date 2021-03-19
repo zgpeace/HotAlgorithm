@@ -9,10 +9,10 @@
 - [2] 24 https://leetcode-cn.com/problems/swap-nodes-in-pairs/ 
 - [2] 21 https://leetcode-cn.com/problems/merge-two-sorted-lists/
 - [2] 299 https://leetcode-cn.com/problems/bulls-and-cows/ 
-- [1] 206 https://leetcode-cn.com/problems/reverse-linked-list/
-- [1] 350 https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
+- [2] 206 https://leetcode-cn.com/problems/reverse-linked-list/
+- [2] 350 https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
 - [2] 239 https://leetcode-cn.com/problems/sliding-window-maximum/ | 59-I https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/ 
-- [1] 1021 https://leetcode-cn.com/problems/remove-outermost-parentheses/ 
+- [2] 1021 https://leetcode-cn.com/problems/remove-outermost-parentheses/ 
 - [1] 412 https://leetcode-cn.com/problems/fizz-buzz/ 
 - [1] 258 https://leetcode-cn.com/problems/add-digits/ 
 
