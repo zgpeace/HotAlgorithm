@@ -15,6 +15,7 @@
 - [2] 1021 https://leetcode-cn.com/problems/remove-outermost-parentheses/ 
 - [1] 412 https://leetcode-cn.com/problems/fizz-buzz/ 
 - [1] 258 https://leetcode-cn.com/problems/add-digits/ 
+- [1] 104 https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ 
 
 
 
