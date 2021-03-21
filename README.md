@@ -16,6 +16,7 @@
 - [2] 412 https://leetcode-cn.com/problems/fizz-buzz/ 
 - [2] 258 https://leetcode-cn.com/problems/add-digits/ 
 - [1] 104 https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ 
+- [1] 51  https://leetcode-cn.com/problems/n-queens/ 
 
 
 
