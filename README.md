@@ -15,9 +15,9 @@
 - [2] 1021 https://leetcode-cn.com/problems/remove-outermost-parentheses/ 
 - [2] 412  https://leetcode-cn.com/problems/fizz-buzz/ 
 - [2] 258  https://leetcode-cn.com/problems/add-digits/ 
-- [1] 104  https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ 
-- [1] 51   https://leetcode-cn.com/problems/n-queens/ 
-- [1] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+- [2] 104  https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ 
+- [2] 51   https://leetcode-cn.com/problems/n-queens/ 
+- [2] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 - [1] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 
 
