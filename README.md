@@ -18,6 +18,8 @@
 - [1] 104  https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ 
 - [1] 51   https://leetcode-cn.com/problems/n-queens/ 
 - [1] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+- [1] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+
 
 
 
