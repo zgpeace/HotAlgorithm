@@ -19,6 +19,7 @@
 - [2] 51   https://leetcode-cn.com/problems/n-queens/ 
 - [2] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 - [1] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+- [1] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
 
 
 
