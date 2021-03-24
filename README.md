@@ -1,6 +1,6 @@
 # HotAlgorithm 高频算法题
 五毒神掌 掌握算法：每道题刷5遍，5分钟没有思路，就看most vote解法。 直到一看到题就以O(1)的速度得到最佳答案，解决思路。
-- [3] 70   https://leetcode-cn.com/problems/climbing-stairs/
+- [4] 70   https://leetcode-cn.com/problems/climbing-stairs/
 - [2] 66   https://leetcode-cn.com/problems/plus-one/
 - [2] 1    https://leetcode-cn.com/problems/two-sum/ 
 - [2] 15   https://leetcode-cn.com/problems/3sum
@@ -17,7 +17,7 @@
 - [2] 258  https://leetcode-cn.com/problems/add-digits/ 
 - [2] 104  https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ 
 - [2] 51   https://leetcode-cn.com/problems/n-queens/ 
-- [2] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+- [3] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 - [1] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 - [1] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
 
