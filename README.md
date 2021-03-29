@@ -23,6 +23,7 @@
 - [1] 236 https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
 - [1] 213 https://leetcode-cn.com/problems/house-robber-ii/description/
 - [1] 874 https://leetcode-cn.com/problems/walking-robot-simulation/description/ 
+- [1] 1143 https://leetcode-cn.com/problems/longest-common-subsequence/ 
 
 
 
