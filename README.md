@@ -24,7 +24,7 @@
 - [1] 213 https://leetcode-cn.com/problems/house-robber-ii/description/
 - [1] 874 https://leetcode-cn.com/problems/walking-robot-simulation/description/ 
 - [1] 1143 https://leetcode-cn.com/problems/longest-common-subsequence/ 
-- [0] 64 https://leetcode-cn.com/problems/minimum-path-sum/ 
+- [1] 64 https://leetcode-cn.com/problems/minimum-path-sum/ 
 - [1] 322 https://leetcode-cn.com/problems/coin-change/ 
 - [1] 127 https://leetcode-cn.com/problems/word-ladder/description/ 
 
