@@ -27,6 +27,7 @@
 - [1] 64 https://leetcode-cn.com/problems/minimum-path-sum/ 
 - [1] 322 https://leetcode-cn.com/problems/coin-change/ 
 - [1] 127 https://leetcode-cn.com/problems/word-ladder/description/ 
+- [1] 589 https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/ 
 
 
 
