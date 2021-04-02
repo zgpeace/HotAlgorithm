@@ -40,6 +40,8 @@ Tree >>>
 - [1] 590 https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/
 - [1] 103 https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/
 - [1] 230 https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
+- [1] 102 https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/
+- [1] 199 https://leetcode-cn.com/problems/binary-tree-right-side-view/description/
 - 
 
 
