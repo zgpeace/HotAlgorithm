@@ -29,8 +29,17 @@
 - [1] 127 https://leetcode-cn.com/problems/word-ladder/description/ 
 - [1] 589 https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/ 
 - [1] 200 https://leetcode-cn.com/problems/number-of-islands/ 
+
+
+
+Tree >>>
 - [1] 94 https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/
 - [1] 145 https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/
+- [1] 100 https://leetcode-cn.com/problems/same-tree/description/
+- [1] 226 https://leetcode-cn.com/problems/invert-binary-tree/description/
+- [1] 590 https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/
+- [1] 103 https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/
+- [1] 230 https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
 - 
 
 
