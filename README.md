@@ -17,7 +17,7 @@
 - [2] 258  https://leetcode-cn.com/problems/add-digits/ 
 - [2] 104  https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ 
 - [2] 51   https://leetcode-cn.com/problems/n-queens/ 
-- [3] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+- [4] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 - [2] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 - [1] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
 - [1] 236 https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
@@ -29,6 +29,9 @@
 - [1] 127 https://leetcode-cn.com/problems/word-ladder/description/ 
 - [1] 589 https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/ 
 - [1] 200 https://leetcode-cn.com/problems/number-of-islands/ 
+- [1] 94 https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/
+- [1] 145 https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/
+- 
 
 
 
