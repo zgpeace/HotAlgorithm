@@ -1,8 +1,8 @@
 # HotAlgorithm 高频算法题
 五毒神掌 掌握算法：每道题刷5遍，5分钟没有思路，就看most vote解法。 直到一看到题就以O(1)的速度得到最佳答案，解决思路。
 - [4] 70   https://leetcode-cn.com/problems/climbing-stairs/
-- [2] 66   https://leetcode-cn.com/problems/plus-one/
-- [2] 1    https://leetcode-cn.com/problems/two-sum/ 
+- [3] 66   https://leetcode-cn.com/problems/plus-one/
+- [3] 1    https://leetcode-cn.com/problems/two-sum/ 
 - [2] 15   https://leetcode-cn.com/problems/3sum
 - [2] 283  https://leetcode-cn.com/problems/move-zeroes
 - [2] 11   https://leetcode-cn.com/problems/container-with-most-water/
@@ -19,7 +19,7 @@
 - [2] 51   https://leetcode-cn.com/problems/n-queens/ 
 - [4] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 - [2] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
-- [1] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
+- [2] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
 - [1] 236 https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
 - [1] 213 https://leetcode-cn.com/problems/house-robber-ii/description/
 - [1] 874 https://leetcode-cn.com/problems/walking-robot-simulation/description/ 
