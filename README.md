@@ -35,6 +35,7 @@
 - [1] 53 https://leetcode-cn.com/problems/maximum-subarray/ 
 - [1] 190 https://leetcode-cn.com/problems/reverse-bits/
 - [1] 1122 https://leetcode-cn.com/problems/relative-sort-array/ 
+- [1] 300 https://leetcode-cn.com/problems/longest-increasing-subsequence/ 
 
 
 
