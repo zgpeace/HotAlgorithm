@@ -8,16 +8,18 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         if (nums.length < 2) return nums.length;
-        int[] dp = new int[nums.length];
-        Arrays.fill(dp, 1);
-        int res = 1;
-        for (int i = 1; i < nums.length; i++) {
-            for (int k = 0; k < i; k++) {
-                if (nums[k] < nums[i]) dp[i] = Math.max(dp[i], dp[k] + 1);
+        int[] tails = new int[nums.length];
+        int res = 0;
+        for(int num : nums) {
+            int i = 0, j = res;
+            while(i < j) {
+                int m = i + ((j - i) >>> 1);
+                if(tails[m] < num) i = m + 1;
+                else j = m;
             }
-            res = Math.max(res, dp[i]);
+            tails[i] = num;
+            if(res == j) res++;
         }
-
         return res;
     }
 }
