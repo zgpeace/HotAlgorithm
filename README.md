@@ -20,7 +20,7 @@
 - [4] 94   https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 - [2] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 - [2] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
-- [1] 236 https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
+- [2] 236 https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
 - [1] 213 https://leetcode-cn.com/problems/house-robber-ii/description/
 - [1] 874 https://leetcode-cn.com/problems/walking-robot-simulation/description/ 
 - [1] 1143 https://leetcode-cn.com/problems/longest-common-subsequence/ 
