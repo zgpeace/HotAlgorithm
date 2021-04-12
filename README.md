@@ -8,7 +8,7 @@
 - [2] 11   https://leetcode-cn.com/problems/container-with-most-water/
 - [2] 24   https://leetcode-cn.com/problems/swap-nodes-in-pairs/ 
 - [2] 21   https://leetcode-cn.com/problems/merge-two-sorted-lists/
-- [2] 299  https://leetcode-cn.com/problems/bulls-and-cows/ 
+- [3] 299  https://leetcode-cn.com/problems/bulls-and-cows/ 
 - [2] 206  https://leetcode-cn.com/problems/reverse-linked-list/
 - [2] 350  https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
 - [2] 239  https://leetcode-cn.com/problems/sliding-window-maximum/ | 59-I https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/ 
