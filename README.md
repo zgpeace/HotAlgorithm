@@ -37,8 +37,8 @@
 - [1] 1122 https://leetcode-cn.com/problems/relative-sort-array/ 
 - [1] 300 https://leetcode-cn.com/problems/longest-increasing-subsequence/ 
 - [1] 680 https://leetcode-cn.com/problems/valid-palindrome-ii/ 
-- [1] 22 https://leetcode-cn.com/problems/generate-parentheses/
-- [1] 62 https://leetcode-cn.com/problems/unique-paths/ 
+- [2] 22 https://leetcode-cn.com/problems/generate-parentheses/
+- [2] 62 https://leetcode-cn.com/problems/unique-paths/ 
 
 
 
