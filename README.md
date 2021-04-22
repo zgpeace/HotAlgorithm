@@ -35,8 +35,8 @@
 - [1] 53 https://leetcode-cn.com/problems/maximum-subarray/ 
 - [1] 190 https://leetcode-cn.com/problems/reverse-bits/
 - [1] 1122 https://leetcode-cn.com/problems/relative-sort-array/ 
-- [1] 300 https://leetcode-cn.com/problems/longest-increasing-subsequence/ 
-- [1] 680 https://leetcode-cn.com/problems/valid-palindrome-ii/ 
+- [2] 300 https://leetcode-cn.com/problems/longest-increasing-subsequence/ 
+- [2] 680 https://leetcode-cn.com/problems/valid-palindrome-ii/ 
 - [2] 22 https://leetcode-cn.com/problems/generate-parentheses/
 - [2] 62 https://leetcode-cn.com/problems/unique-paths/ 
 
