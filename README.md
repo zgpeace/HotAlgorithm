@@ -23,7 +23,7 @@
 - [2] 236 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
 - [3] 213 https://leetcode.com/problems/house-robber-ii/description/
 - [3] 874 https://leetcode.com/problems/walking-robot-simulation/description/ 
-- [1] 1143 https://leetcode.com/problems/longest-common-subsequence/ 
+- [3] 1143 https://leetcode.com/problems/longest-common-subsequence/ 
 - [2] 64 https://leetcode.com/problems/minimum-path-sum/ 
 - [4] 322 https://leetcode.com/problems/coin-change/ 
 - [2] 127 https://leetcode.com/problems/word-ladder/description/ 
@@ -38,7 +38,7 @@
 - [2] 300 https://leetcode.com/problems/longest-increasing-subsequence/ 
 - [2] 680 https://leetcode.com/problems/valid-palindrome-ii/ 
 - [2] 22 https://leetcode.com/problems/generate-parentheses/
-- [2] 62 https://leetcode.com/problems/unique-paths/ 
+- [3] 62 https://leetcode.com/problems/unique-paths/ 
 
 
 
