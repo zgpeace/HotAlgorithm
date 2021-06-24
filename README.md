@@ -36,8 +36,8 @@
 - [2] 190 https://leetcode.com/problems/reverse-bits/
 - [2] 1122 https://leetcode.com/problems/relative-sort-array/ 
 - [2] 300 https://leetcode.com/problems/longest-increasing-subsequence/ 
-- [2] 680 https://leetcode.com/problems/valid-palindrome-ii/ 
-- [2] 22 https://leetcode.com/problems/generate-parentheses/
+- [3] 680 https://leetcode.com/problems/valid-palindrome-ii/ 
+- [3] 22 https://leetcode.com/problems/generate-parentheses/
 - [3] 62 https://leetcode.com/problems/unique-paths/ 
 
 
