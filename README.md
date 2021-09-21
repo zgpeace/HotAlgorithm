@@ -18,8 +18,8 @@
 - [3] 104  https://leetcode.com/problems/maximum-depth-of-binary-tree/ 
 - [4] 51   https://leetcode.com/problems/n-queens/ 
 - [5] 94   https://leetcode.com/problems/binary-tree-inorder-traversal/
-- [3] offer05 https://leetcode.com/problems/ti-huan-kong-ge-lcof/
-- [3] offer06 https://leetcode.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
+- [3] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+- [3] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
 - [4] 236 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
 - [5] 213 https://leetcode.com/problems/house-robber-ii/description/
 - [5] 874 https://leetcode.com/problems/walking-robot-simulation/description/ 
