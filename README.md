@@ -14,7 +14,7 @@
 - [2] 239  https://leetcode.com/problems/sliding-window-maximum/ | 59-I https://leetcode.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/ 
 - [2] 1021 https://leetcode.com/problems/remove-outermost-parentheses/ 
 - [2] 412  https://leetcode.com/problems/fizz-buzz/ 
-- [2] 258  https://leetcode.com/problems/add-digits/ 
+- [3] 258  https://leetcode.com/problems/add-digits/ 
 - [5] 104  https://leetcode.com/problems/maximum-depth-of-binary-tree/ 
 - [5] 51   https://leetcode.com/problems/n-queens/ 
 - [7] 94   https://leetcode.com/problems/binary-tree-inorder-traversal/
