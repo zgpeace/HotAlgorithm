@@ -1,7 +1,7 @@
 # HotAlgorithm 高频算法题
 五毒神掌 掌握算法：每道题刷5遍，5分钟没有思路，就看most vote解法。 直到一看到题就以O(1)的速度得到最佳答案，解决思路。
 - [4] 70   https://leetcode.com/problems/climbing-stairs/
-- [4] 66   https://leetcode.com/problems/plus-one/
+- [5] 66   https://leetcode.com/problems/plus-one/
 - [5] 1    https://leetcode.com/problems/two-sum/ 
 - [4] 15   https://leetcode.com/problems/3sum
 - [4] 283  https://leetcode.com/problems/move-zeroes
