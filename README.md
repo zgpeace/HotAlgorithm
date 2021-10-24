@@ -17,10 +17,10 @@
 - [6] 258  https://leetcode.com/problems/add-digits/ 
 - [6] 104  https://leetcode.com/problems/maximum-depth-of-binary-tree/ 
 - [6] 51   https://leetcode.com/problems/n-queens/ 
-- [8] 94   https://leetcode.com/problems/binary-tree-inorder-traversal/
-- [4] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
-- [5] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
-- [4] 236 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
+- [9] 94   https://leetcode.com/problems/binary-tree-inorder-traversal/
+- [5] offer05 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+- [6] offer06 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
+- [5] 236 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | offer 26-II https://leetcode.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
 - [5] 213 https://leetcode.com/problems/house-robber-ii/description/
 - [5] 874 https://leetcode.com/problems/walking-robot-simulation/description/ 
 - [5] 1143 https://leetcode.com/problems/longest-common-subsequence/ 
