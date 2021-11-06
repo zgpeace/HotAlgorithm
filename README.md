@@ -34,9 +34,9 @@
 - [7] 212 https://leetcode.com/problems/word-search-ii/ 
 - [5] 53 https://leetcode.com/problems/maximum-subarray/ 
 - [5] 190 https://leetcode.com/problems/reverse-bits/
-- [4] 1122 https://leetcode.com/problems/relative-sort-array/ 
-- [3] 300 https://leetcode.com/problems/longest-increasing-subsequence/ 
-- [3] 680 https://leetcode.com/problems/valid-palindrome-ii/ 
+- [5] 1122 https://leetcode.com/problems/relative-sort-array/ 
+- [4] 300 https://leetcode.com/problems/longest-increasing-subsequence/ 
+- [4] 680 https://leetcode.com/problems/valid-palindrome-ii/ 
 - [3] 22 https://leetcode.com/problems/generate-parentheses/
 - [3] 62 https://leetcode.com/problems/unique-paths/ 
 
