@@ -35,10 +35,10 @@
 - [5] 53 https://leetcode.com/problems/maximum-subarray/ 
 - [5] 190 https://leetcode.com/problems/reverse-bits/
 - [5] 1122 https://leetcode.com/problems/relative-sort-array/ 
-- [4] 300 https://leetcode.com/problems/longest-increasing-subsequence/ 
-- [4] 680 https://leetcode.com/problems/valid-palindrome-ii/ 
-- [3] 22 https://leetcode.com/problems/generate-parentheses/
-- [3] 62 https://leetcode.com/problems/unique-paths/ 
+- [5] 300 https://leetcode.com/problems/longest-increasing-subsequence/ 
+- [5] 680 https://leetcode.com/problems/valid-palindrome-ii/ 
+- [4] 22 https://leetcode.com/problems/generate-parentheses/
+- [4] 62 https://leetcode.com/problems/unique-paths/ 
 
 
 
