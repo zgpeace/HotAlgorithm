@@ -1,5 +1,47 @@
 # HotAlgorithm 高频算法题
 五毒神掌 掌握算法：每道题刷5遍，5分钟没有思路，就看most vote解法。 直到一看到题就以O(1)的速度得到最佳答案，解决思路。
+
+Tree >>>
+- [2] 94 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+- [1] 145 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
+- [1] 100 https://leetcode.com/problems/same-tree/description/
+- [1] 226 https://leetcode.com/problems/invert-binary-tree/description/
+- [1] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
+- [1] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
+- [1] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- [1] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+- [1] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
+- 
+
+动态规划
+* [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
+* [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
+* [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
+* [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
+* [最大子序和 （简单）](https://leetcode.com/problems/maximum-subarray/)
+* [乘积最大子数组（中等）](https://leetcode.com/problems/maximum-product-subarray/)
+* [买卖股票的最佳时机（简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [买卖股票的最佳时机 II （简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+* [买卖股票的最佳时机 III （困难）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+* [买卖股票的最佳时机 IV （困难）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+* [最佳买卖股票时机含冷冻期（中等）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+* [买卖股票的最佳时机含手续费（中等）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+* [零钱兑换 （中等）](https://leetcode.com/problems/coin-change/)
+* [零钱兑换 II （中等）](https://leetcode.com/problems/coin-change-2/)
+* [编辑距离（困难）](https://leetcode.com/problems/edit-distance/)
+* [不同的子序列（困难）](https://leetcode.com/problems/distinct-subsequences/)
+* [柱状图中最大的矩形（困难）](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+* [最大矩形（困难）](https://leetcode.com/problems/maximal-rectangle/)
+* [最大正方形（中等）](https://leetcode.com/problems/maximal-square/)
+* [最低票价（中等）](https://leetcode.com/problems/minimum-cost-for-tickets/)
+* [区域和检索 - 数组不可变（简单）](https://leetcode.com/problems/range-sum-query-immutable/)
+* [二维区域和检索 - 矩阵不可变（中等）](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+* [最长上升子序列 （中等）](https://leetcode.com/problems/longest-increasing-subsequence/)
+* [鸡蛋掉落（困难）](https://leetcode.com/problems/super-egg-drop/)
+
+
+============
+
 - [6] 70   https://leetcode.com/problems/climbing-stairs/
 - [6] 66   https://leetcode.com/problems/plus-one/
 - [6] 1    https://leetcode.com/problems/two-sum/ 
@@ -43,17 +85,6 @@
 
 
 
-Tree >>>
-- [2] 94 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
-- [1] 145 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
-- [1] 100 https://leetcode.com/problems/same-tree/description/
-- [1] 226 https://leetcode.com/problems/invert-binary-tree/description/
-- [1] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
-- [1] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
-- [1] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-- [1] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
-- [1] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
-- 
 
 
 
