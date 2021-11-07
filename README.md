@@ -37,14 +37,14 @@
 - [5] 1122 https://leetcode.com/problems/relative-sort-array/ 
 - [5] 300 https://leetcode.com/problems/longest-increasing-subsequence/ 
 - [5] 680 https://leetcode.com/problems/valid-palindrome-ii/ 
-- [4] 22 https://leetcode.com/problems/generate-parentheses/
-- [4] 62 https://leetcode.com/problems/unique-paths/ 
+- [5] 22 https://leetcode.com/problems/generate-parentheses/
+- [5] 62 https://leetcode.com/problems/unique-paths/ 
 
 
 
 
 Tree >>>
-- [1] 94 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+- [2] 94 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
 - [1] 145 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
 - [1] 100 https://leetcode.com/problems/same-tree/description/
 - [1] 226 https://leetcode.com/problems/invert-binary-tree/description/
