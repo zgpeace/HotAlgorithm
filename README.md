@@ -2,9 +2,9 @@
 五毒神掌 掌握算法：每道题刷5遍，5分钟没有思路，就看most vote解法。 直到一看到题就以O(1)的速度得到最佳答案，解决思路。
 
 Tree >>>
-- [2] 94 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
-- [1] 145 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
-- [1] 100 https://leetcode.com/problems/same-tree/description/
+- [3] 94 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+- [2] 145 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
+- [2] 100 https://leetcode.com/problems/same-tree/description/
 - [1] 226 https://leetcode.com/problems/invert-binary-tree/description/
 - [1] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
 - [1] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
