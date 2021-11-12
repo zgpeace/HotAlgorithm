@@ -7,10 +7,10 @@ Tree >>>
 - [3] 100 https://leetcode.com/problems/same-tree/description/
 - [3] 226 https://leetcode.com/problems/invert-binary-tree/description/
 - [3] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
-- [2] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
-- [2] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-- [1] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
-- [1] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
+- [3] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
+- [*3] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- [2] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+- [*2] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
 
 ============
 
