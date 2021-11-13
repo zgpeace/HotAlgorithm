@@ -8,14 +8,14 @@ Tree >>>
 - [3] 226 https://leetcode.com/problems/invert-binary-tree/description/
 - [3] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
 - [3] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
-- [*3] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-- [2] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
-- [*2] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
+- [*4] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- [3] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+- [*3] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
 
 ============
 
 ## 动态规划
-- [0] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [* 1] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [0] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
 - [0] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
 - [0] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
