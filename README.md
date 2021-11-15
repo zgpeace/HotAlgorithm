@@ -8,17 +8,17 @@ Tree >>>
 - [3] 226 https://leetcode.com/problems/invert-binary-tree/description/
 - [3] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
 - [3] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
-- [*5] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- [*6] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - [3] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 - [*3] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
 
 ============
 
 ## 动态规划
-- [* 2] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [1] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
-- [1] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
-- [0] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
+- [* 3] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [2] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
+- [2] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
+- [1] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
 - [0] [最大子序和 （简单）](https://leetcode.com/problems/maximum-subarray/)
 - [0] [乘积最大子数组（中等）](https://leetcode.com/problems/maximum-product-subarray/)
 - [0] [买卖股票的最佳时机（简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
