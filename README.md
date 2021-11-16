@@ -16,10 +16,10 @@ Tree >>>
 
 ## 动态规划
 - [* 3] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [2] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
-- [2] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
-- [1] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
-- [0] [最大子序和 （简单）](https://leetcode.com/problems/maximum-subarray/)
+- [3] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
+- [3] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
+- [2] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
+- [1] [最大子序和 （简单）](https://leetcode.com/problems/maximum-subarray/)
 - [0] [乘积最大子数组（中等）](https://leetcode.com/problems/maximum-product-subarray/)
 - [0] [买卖股票的最佳时机（简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [0] [买卖股票的最佳时机 II （简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
