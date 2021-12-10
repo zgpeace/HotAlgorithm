@@ -32,7 +32,7 @@ Tree >>>
 - [* 4] [编辑距离（困难）](https://leetcode.com/problems/edit-distance/)
 - [* 4] [不同的子序列（困难）](https://leetcode.com/problems/distinct-subsequences/)
 - [* 4] [柱状图中最大的矩形（困难）](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-- [* 2] [最大矩形（困难）](https://leetcode.com/problems/maximal-rectangle/)
+- [* 3] [最大矩形（困难）](https://leetcode.com/problems/maximal-rectangle/)
 - [* 1] [最大正方形（中等）](https://leetcode.com/problems/maximal-square/)
 - [0] [最低票价（中等）](https://leetcode.com/problems/minimum-cost-for-tickets/)
 - [0] [区域和检索 - 数组不可变（简单）](https://leetcode.com/problems/range-sum-query-immutable/)
