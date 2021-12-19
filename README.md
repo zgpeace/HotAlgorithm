@@ -15,7 +15,7 @@ Tree >>>
 ============
 
 ## 动态规划
-- [* 4] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [* 5] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [3] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
 - [3] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
 - [3] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
@@ -37,7 +37,7 @@ Tree >>>
 - [* 4] [最低票价（中等）](https://leetcode.com/problems/minimum-cost-for-tickets/)
 - [* 4] [区域和检索 - 数组不可变（简单）](https://leetcode.com/problems/range-sum-query-immutable/)
 - [* 4] [二维区域和检索 - 矩阵不可变（中等）](https://leetcode.com/problems/range-sum-query-2d-immutable/)
-- [* 3] [最长上升子序列 （中等）](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [* 4] [最长上升子序列 （中等）](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [* 2] [鸡蛋掉落（困难）](https://leetcode.com/problems/super-egg-drop/)
 
 
