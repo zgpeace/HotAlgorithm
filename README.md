@@ -15,10 +15,10 @@ Tree >>>
 ============
 
 ## 动态规划
-- [* 5] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [3] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
-- [3] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
-- [3] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
+- [* 6] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [4] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
+- [4] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
+- [4] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
 - [3] [最大子序和 （简单）](https://leetcode.com/problems/maximum-subarray/)
 - [3] [乘积最大子数组（中等）](https://leetcode.com/problems/maximum-product-subarray/)
 - [4] [买卖股票的最佳时机（简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -38,7 +38,7 @@ Tree >>>
 - [* 4] [区域和检索 - 数组不可变（简单）](https://leetcode.com/problems/range-sum-query-immutable/)
 - [* 4] [二维区域和检索 - 矩阵不可变（中等）](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 - [* 4] [最长上升子序列 （中等）](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [* 2] [鸡蛋掉落（困难）](https://leetcode.com/problems/super-egg-drop/)
+- [* 3] [鸡蛋掉落（困难）](https://leetcode.com/problems/super-egg-drop/)
 
 
 ============
