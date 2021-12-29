@@ -28,7 +28,7 @@ Tree >>>
 - [* 5] [最佳买卖股票时机含冷冻期（中等）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [* 5] [买卖股票的最佳时机含手续费（中等）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 - [5] [零钱兑换 （中等）](https://leetcode.com/problems/coin-change/)
-- [* 4] [零钱兑换 II （中等）](https://leetcode.com/problems/coin-change-2/)
+- [** 5] [零钱兑换 II （中等）](https://leetcode.com/problems/coin-change-2/)
 - [* 4] [编辑距离（困难）](https://leetcode.com/problems/edit-distance/)
 - [* 4] [不同的子序列（困难）](https://leetcode.com/problems/distinct-subsequences/)
 - [* 4] [柱状图中最大的矩形（困难）](https://leetcode.com/problems/largest-rectangle-in-histogram/)
