@@ -29,7 +29,7 @@ Tree >>>
 - [* 5] [买卖股票的最佳时机含手续费（中等）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 - [6] [零钱兑换 （中等）](https://leetcode.com/problems/coin-change/)
 - [** 9] [零钱兑换 II （中等）](https://leetcode.com/problems/coin-change-2/)
-- [* 5] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [* 6] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 - [] [343. Integer Break](https://leetcode.com/problems/integer-break/)
 - [] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
