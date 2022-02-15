@@ -4,8 +4,8 @@
 Tree >>>
 - [5] 94 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
 - [5] 145 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
-- [4] 100 https://leetcode.com/problems/same-tree/description/
-- [3] 226 https://leetcode.com/problems/invert-binary-tree/description/
+- [5] 100 https://leetcode.com/problems/same-tree/description/
+- [4] 226 https://leetcode.com/problems/invert-binary-tree/description/
 - [3] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
 - [3] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
 - [*6] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
