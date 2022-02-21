@@ -8,7 +8,7 @@ Tree >>>
 - [5] 226 https://leetcode.com/problems/invert-binary-tree/description/
 - [5] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
 - [5] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
-- [*8] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- [*9] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - [5] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 - [*4] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
 
