@@ -10,12 +10,12 @@ Tree >>>
 - [5] 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
 - [*9] 230 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - [5] 102 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
-- [*4] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
+- [*5] 199 https://leetcode.com/problems/binary-tree-right-side-view/description/
 
 ============
 
 ## 动态规划
-- [* 6] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [* 7] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [5] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
 - [5] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
 - [5] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
