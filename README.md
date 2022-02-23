@@ -15,8 +15,8 @@ Tree >>>
 ============
 
 ## 动态规划
-- [* 7] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [5] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
+- [* 8] [使用最小花费爬楼梯（简单）](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [6] [爬楼梯（简单）](https://leetcode.com/problems/climbing-stairs/)
 - [5] [不同路径（简单）](https://leetcode.com/problems/unique-paths/)
 - [5] [最小路径和 （中等）](https://leetcode.com/problems/minimum-path-sum/)
 - [5] [最大子序和 （简单）](https://leetcode.com/problems/maximum-subarray/)
