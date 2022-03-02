@@ -22,7 +22,7 @@ Tree >>>
 - [7] [最大子序和 （简单）](https://leetcode.com/problems/maximum-subarray/)
 - [7] [乘积最大子数组（中等）](https://leetcode.com/problems/maximum-product-subarray/)
 - [7] [买卖股票的最佳时机（简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [6] [买卖股票的最佳时机 II （简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [7] [买卖股票的最佳时机 II （简单）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [* 9] [买卖股票的最佳时机 III （困难）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - [* 7] [买卖股票的最佳时机 IV （困难）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 - [* 5] [最佳买卖股票时机含冷冻期（中等）](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
