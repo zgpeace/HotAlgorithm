@@ -30,7 +30,7 @@ Tree >>>
 - [8] [零钱兑换 （中等）](https://leetcode.com/problems/coin-change/)
 - [** 13] [零钱兑换 II （中等）](https://leetcode.com/problems/coin-change-2/)
 - [* 10] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
-- [2] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+- [* 3] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 - [] [343. Integer Break](https://leetcode.com/problems/integer-break/)
 - [] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [* 4] [编辑距离（困难）](https://leetcode.com/problems/edit-distance/)
