@@ -3,7 +3,7 @@
 
 Tree >>>
 - [7] 94 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
-- [5] 145 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
+- [6] 145 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
 - [5] 100 https://leetcode.com/problems/same-tree/description/
 - [5] 226 https://leetcode.com/problems/invert-binary-tree/description/
 - [5] 590 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
